@@ -1,0 +1,34 @@
+[
+  {
+    "name": "d",
+    "phoneNumber": "11",
+    "password": "11",
+    "role": "USER",
+    "isBlock": true,
+    "userId": "e96ccc1d-c06e-4896-bcbf-d24539546ef5"
+  },
+  {
+    "name": "s",
+    "phoneNumber": "33",
+    "password": "33",
+    "role": "USER",
+    "isBlock": true,
+    "userId": "6e96e7c8-eef6-4bec-89b2-1d623cb823d2"
+  },
+  {
+    "name": "Xasan",
+    "phoneNumber": "555",
+    "password": "555",
+    "role": "ADMIN",
+    "isBlock": true,
+    "userId": "41c8cbad-b35f-47c4-a429-e7dfa9193566"
+  },
+  {
+    "name": "qwer",
+    "phoneNumber": "qwer",
+    "password": "qwer",
+    "role": "USER",
+    "isBlock": true,
+    "userId": "6fd4de56-5d5c-42c8-8f28-9f5c679c5ed1"
+  }
+]
